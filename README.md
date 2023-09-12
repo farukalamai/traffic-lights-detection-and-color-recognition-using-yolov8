@@ -1,7 +1,6 @@
 # Traffic Lights Detection and Color Recognition using YOLOv8
 
-https://github.com/farukalampro/traffic-lights-detection-and-color-recognition-using-yolov8/assets/92469073/59e135b7-b5b5-450d-87d7-2094ca65e614
-
+![farukalampro-traffic-lights-detection-and-color-recognition-using-yolov8-traffic-lights-detection-and-color-recognition-using-yolov8](https://github.com/farukalampro/traffic-lights-detection-and-color-recognition-using-yolov8/assets/92469073/973d3947-ba91-4008-93c5-a067ebfaf3bf)
 
 ## Introduction
 This project is a computer vision application that utilizes the YOLOv8 deep learning model to detect traffic lights in images and recognize their colors. It can be useful in various traffic management and autonomous driving scenarios.
